@@ -22,7 +22,7 @@
 {"@context":"https://schema.org","@type":"WebPage","description":"Bang your head!","headline":"Welcome to another page","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/assets/img/LaunchScreen.png"}},"url":"http://localhost:4000/another-page.html"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/assets/css/style.css?v=938348537ab4551049adff5628a338acbfe63a84">
+    <link rel="stylesheet" href="/assets/css/style.css?v=e5a3c29b09c35737c60e15f46ff38dd119992df3">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -41,7 +41,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="http://localhost:4000/">We are OTTERWORKS</a></h1>
+        <h1><a style="color: #CC8C52" href="http://localhost:4000/">We are OTTERWORKS</a></h1>
 
         
           <img src="/assets/img/LaunchScreen.png" alt="Logo" />
@@ -62,6 +62,13 @@
           <li><a href="https://github.com/gros10/OTTERWORKS">View On <strong>GitHub</strong></a></li>
         </ul> -->
         
+
+        <div class="typing-container">
+          <span id="sentence" class="sentence">OTTERWORKS aims at creating </span><br/>
+          <span id="feature-text"></span>
+          <span class="input-cursor"></span>
+          <span id="sentence" class="sentence">games</span>
+        </div>
       </header>
       <section>
 
@@ -81,5 +88,60 @@
       </footer>
     </div>
     <script src="/assets/js/scale.fix.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script>
+      const carouselText = [
+        {text: "entertaining", color: "red"},
+        {text: "social", color: "orange"},
+        {text: "competitive", color: "blue"}
+      ]
+
+      $( document ).ready(async function() {
+        carousel(carouselText, "#feature-text")
+      });
+
+      async function typeSentence(sentence, eleRef, delay = 100) {
+        const letters = sentence.split("");
+        let i = 0;
+        while(i < letters.length) {
+          await waitForMs(delay);
+          $(eleRef).append(letters[i]);
+          i++
+        }
+        return;
+      }
+
+      async function deleteSentence(eleRef) {
+        const sentence = $(eleRef).html();
+        const letters = sentence.split("");
+        let i = 0;
+        while(letters.length > 0) {
+          await waitForMs(100);
+          letters.pop();
+          $(eleRef).html(letters.join(""));
+        }
+      }
+
+      async function carousel(carouselList, eleRef) {
+          var i = 0;
+          while(true) {
+            updateFontColor(eleRef, carouselList[i].color)
+            await typeSentence(carouselList[i].text, eleRef);
+            await waitForMs(1500);
+            await deleteSentence(eleRef);
+            await waitForMs(500);
+            i++
+            if(i >= carouselList.length) {i = 0;}
+          }
+      }
+
+      function updateFontColor(eleRef, color) {
+        $(eleRef).css('color', color);
+      }
+
+      function waitForMs(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms))
+      }
+    </script>
   </body>
 </html>

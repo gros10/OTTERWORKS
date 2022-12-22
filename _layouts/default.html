@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        <h1><a style="color: #CC8C52" href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
@@ -38,6 +38,13 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul> -->
         {% endif %}
+
+        <div class="typing-container">
+          <span id="sentence" class="sentence">OTTERWORKS aims at creating </span><br/>
+          <span id="feature-text"></span>
+          <span class="input-cursor"></span>
+          <span id="sentence" class="sentence">games</span>
+        </div>
       </header>
       <section>
 
@@ -52,5 +59,60 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
+    <script>
+      const carouselText = [
+        {text: "entertaining", color: "red"},
+        {text: "social", color: "orange"},
+        {text: "competitive", color: "blue"}
+      ]
+
+      $( document ).ready(async function() {
+        carousel(carouselText, "#feature-text")
+      });
+
+      async function typeSentence(sentence, eleRef, delay = 100) {
+        const letters = sentence.split("");
+        let i = 0;
+        while(i < letters.length) {
+          await waitForMs(delay);
+          $(eleRef).append(letters[i]);
+          i++
+        }
+        return;
+      }
+
+      async function deleteSentence(eleRef) {
+        const sentence = $(eleRef).html();
+        const letters = sentence.split("");
+        let i = 0;
+        while(letters.length > 0) {
+          await waitForMs(100);
+          letters.pop();
+          $(eleRef).html(letters.join(""));
+        }
+      }
+
+      async function carousel(carouselList, eleRef) {
+          var i = 0;
+          while(true) {
+            updateFontColor(eleRef, carouselList[i].color)
+            await typeSentence(carouselList[i].text, eleRef);
+            await waitForMs(1500);
+            await deleteSentence(eleRef);
+            await waitForMs(500);
+            i++
+            if(i >= carouselList.length) {i = 0;}
+          }
+      }
+
+      function updateFontColor(eleRef, color) {
+        $(eleRef).css('color', color);
+      }
+
+      function waitForMs(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms))
+      }
+    </script>
   </body>
 </html>
