@@ -14,10 +14,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games. Our in-house crafted puzzle games make us unique.
 
-We are launching our very first game, Strapion, early 2023 on iOS and Android. Stay tuned for more news.
+We just launched STRAPION, our very first game.
 
 ## Discover Strapion
 
+### Intro
 Strapion is a PvP board game for iOS and Android. Built to be:
 
 * Fun
@@ -26,10 +27,53 @@ Strapion is a PvP board game for iOS and Android. Built to be:
 * Competitive
 * Online
 
-![alt text](assets/img/demo_screen-min.jpeg)
+<!-- ![alt text](assets/img/demo_screen-min.jpeg) --> 
 
-As the release approaches, we are looking forward to tell you more about the Stapion and start playing together!
+### Remember the tic-tac-toe ?
 
+![alt text](assets/img/tictactoe.jpg){:height="30%" width="30%"}
+
+Get 3 of your marks in a row (up, down, across, or diagonally) and you win.
+
+### Strapion, the strategic tic-tac-toe
+
+A Strapion board has nine grids, each composed of 9 cells. These are actually nine tic-tac-toe grids. Each grid won brings you 1 point.
+
+During the first turn, the player who starts the game can play anywhere.
+
+![alt text](assets/img/tutorial-t0.jpg){:height="50%" width="50%"}
+
+### Next grid rule
+
+But from the second turn, a few rules apply.
+
+The playable grid (blue) is defined by which cell has been played during the previous turn (red).
+
+![alt text](assets/img/tutorial-t1.jpg){:height="50%" width="50%"}
+
+### Orange cell rule
+
+It is forbidden to send your opponent to the previous grid. The forbidden cell, when applicable, will appear in orange.
+
+![alt text](assets/img/tutorial-t2.jpg){:height="50%" width="50%"}
+
+### A game is finished when
+
+One player scored 5 points
+
+![alt text](assets/img/tutorial-t3.jpg){:height="30%" width="30%"}
+
+No playable cell remaining
+
+![alt text](assets/img/tutorial-t6.jpg){:height="30%" width="30%"}
+
+Time out
+
+![alt text](assets/img/tutorial-t4.jpeg){:height="30%" width="30%"}
+
+One player forfeited
+
+![alt text](assets/img/tutorial-t5.jpeg){:height="30%" width="30%"}
 
 ## About OTTERWORKS
 
