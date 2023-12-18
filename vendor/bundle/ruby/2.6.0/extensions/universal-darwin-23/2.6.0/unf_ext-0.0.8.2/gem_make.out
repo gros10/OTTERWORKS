@@ -1,12 +1,12 @@
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20231019-99397-r5jcgo.rb extconf.rb
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20231218-427-r8rb93.rb extconf.rb
 checking for -lstdc++... yes
 creating Makefile
 
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR=" clean
 
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR="
 compiling unf.cc
 unf.cc:27:16: warning: '(' and '{' tokens introducing statement expression appear in different macro expansion contexts [-Wcompound-token-split-by-macro]
@@ -133,8 +133,8 @@ unf.cc:30:16: note: ')' token is here
 linking shared-object unf_ext.bundle
 ld: warning: -multiply_defined is obsolete
 ld: warning: ignoring duplicate libraries: '-lc++'
-ld: warning: search path '/AppleInternal/Library/BuildRoots/98ed8ad3-3356-11ee-9b53-aead88ae2785/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.Internal.sdk/usr/local/lib' not found
+ld: warning: search path '/AppleInternal/Library/BuildRoots/11aa8fb2-5f4b-11ee-bc7f-926038f30c31/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.1.Internal.sdk/usr/local/lib' not found
 
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/unf_ext-0.0.8.2/ext/unf_ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20231019-99397-1hty5kq
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20231218-427-1u2ky3h

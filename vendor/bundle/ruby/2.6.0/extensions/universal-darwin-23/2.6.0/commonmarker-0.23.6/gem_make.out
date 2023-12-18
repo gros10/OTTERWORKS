@@ -1,11 +1,11 @@
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
-/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20231019-99397-rtbzef.rb extconf.rb
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20231218-427-vfza1d.rb extconf.rb
 creating Makefile
 
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
 make "DESTDIR=" clean
 
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
 make "DESTDIR="
 compiling arena.c
 compiling autolink.c
@@ -1721,8 +1721,8 @@ compiling utf8.c
 compiling xml.c
 linking shared-object commonmarker/commonmarker.bundle
 ld: warning: -multiply_defined is obsolete
-ld: warning: search path '/AppleInternal/Library/BuildRoots/98ed8ad3-3356-11ee-9b53-aead88ae2785/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.0.Internal.sdk/usr/local/lib' not found
+ld: warning: search path '/AppleInternal/Library/BuildRoots/11aa8fb2-5f4b-11ee-bc7f-926038f30c31/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.1.Internal.sdk/usr/local/lib' not found
 
-current directory: /Users/poooq/Desktop/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
+current directory: /Users/kassem/dev/OTTERWORKS/vendor/bundle/ruby/2.6.0/gems/commonmarker-0.23.6/ext/commonmarker
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20231019-99397-s9fm5a/commonmarker
+/usr/bin/install -c -m 0755 commonmarker.bundle ./.gem.20231218-427-1lbvl1l/commonmarker

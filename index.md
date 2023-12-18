@@ -16,7 +16,7 @@ Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games. Our in-
 
 We just launched STRAPION, our very first game.
 
-## DOWNLOAD NOW
+## DOWNLOAD STRAPION NOW
 
 [![alt text](assets/img/download_apple.svg)](https://apps.apple.com/app/id1560668412){:target="_blank"} [![alt text](assets/img/google-play-badge.png){:height="40px" width="119px"}](https://play.google.com/store/apps/details?id=com.strapion&hl=fr&gl=US&pli=1){:target="_blank"}
 
