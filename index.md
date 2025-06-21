@@ -12,9 +12,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # OTTERWORKS
 
-Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games. Our in-house crafted puzzle games make us unique.
+Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games and services.
 
-We just launched STRAPION, our very first game.
+We just launched STRAPION, our very first game. Our in-house crafted puzzle game make us unique.
 
 ## DOWNLOAD STRAPION NOW
 
@@ -83,10 +83,10 @@ One player forfeited
 
 ## About OTTERWORKS
 
-OTTERWORKS is game publisher based in Tokyo, Japan.
+OTTERWORKS is software publisher based in Tokyo, Japan.
 
 Inquiries:
 
 Email: hello@otterworks.co
 
-Postal: 134-0083  -  Tokyo-to, Edogawa-ku, Naka-Kasai 2-27-14 801.
+Postal: 111-0036  -  Tokyo-to, Taito-ku, Matsugaya 3-4-2 901.
