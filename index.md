@@ -102,9 +102,9 @@ OTTERWORKS is software publisher based in Tokyo, Japan.
 ### Pricing Information
 
 **SuitAI**: Professional portrait packages starting at:
-- Basic Package: $20 USD (5 professional photos)
-- Standard Package: $30 USD (10 professional photos) 
-- Premium Package: $40 USD (15 professional photos)
+- Starter Package: $20 USD (10 professional photos)
+- Professional Package: $30 USD (30 professional photos)
+- Business Package: $40 USD (50 professional photos)
 
 **STRAPION**: Free to download with optional in-app purchases
 
@@ -114,7 +114,7 @@ General Inquiries: hello@otterworks.co
 
 SuitAI Support: support@suitai.co
 
-Business Address: 134-0083 - Tokyo-to, Edogawa-ku, Naka-Kasai 2-27-14 801, Japan
+Business Address: 111-0036 - Tokyo-to, Taito-ku, Matsugaya 3-4-2 901, Japan
 
 ### Refund & Cancellation Policy
 
