@@ -12,8 +12,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # OTTERWORKS
 
-Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games and services.
+Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games and AI-powered software solutions.
 
+## Our Products & Services
+
+### SuitAI - Professional AI Photography
+Transform your everyday photo into a professional portrait with AI. Trusted by job seekers, founders, and freelancers who want to make their first impression count.
+
+Visit: [suitai.co](https://suitai.co)
+
+### STRAPION - Mobile Gaming
 We just launched STRAPION, our very first game. Our in-house crafted puzzle game make us unique.
 
 ## DOWNLOAD STRAPION NOW
@@ -85,8 +93,37 @@ One player forfeited
 
 OTTERWORKS is software publisher based in Tokyo, Japan.
 
-Inquiries:
+### Product & Service Descriptions
 
-Email: hello@otterworks.co
+**SuitAI**: Professional AI-powered portrait generation service. Upload your photos and receive high-quality professional headshots suitable for LinkedIn, resumes, and business profiles.
 
-Postal: 111-0036  -  Tokyo-to, Taito-ku, Matsugaya 3-4-2 901.
+**STRAPION**: A strategic PvP board game for iOS and Android platforms. Players engage in tactical gameplay using an advanced tic-tac-toe format with multiple grids and strategic rules.
+
+### Pricing Information
+
+**SuitAI**: Professional portrait packages starting at:
+- Basic Package: $20 USD (5 professional photos)
+- Standard Package: $30 USD (10 professional photos) 
+- Premium Package: $40 USD (15 professional photos)
+
+**STRAPION**: Free to download with optional in-app purchases
+
+### Contact Information
+
+General Inquiries: hello@otterworks.co
+
+SuitAI Support: support@suitai.co
+
+Business Address: 134-0083 - Tokyo-to, Edogawa-ku, Naka-Kasai 2-27-14 801, Japan
+
+### Refund & Cancellation Policy
+
+**SuitAI**: Due to GPU computational costs, all sales are final. Refunds only considered in exceptional circumstances such as technical failures or processing errors. Refund requests must be submitted within 14 days to support@suitai.co.
+
+**STRAPION**: Refunds available through Apple App Store and Google Play Store policies
+
+### Terms & Privacy
+
+For complete terms of service and privacy policies, visit: [suitai.co/en/legal](https://suitai.co/en/legal)
+
+STRAPION privacy policy: [Privacy Policy](privacyen.html)
