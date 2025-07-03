@@ -12,17 +12,17 @@ title: Commerce Disclosure
 OTTERWORKS
 
 **Representative | 代表者:**  
-TODO
+Kassem DAOUSSI
 
 **Business Address | 所在地:**  
 111-0036 - Tokyo-to, Taito-ku, Matsugaya 3-4-2 901, Japan
 
 **Contact Information | 連絡先:**  
 Email: hello@otterworks.co  
-Phone: TODO
+Phone: +81 070 8455 1245
 
 **Business Registration | 事業者登録:**  
-TODO
+Kassem DAOUSSI
 
 ### Product Information | 商品情報
 
@@ -64,9 +64,9 @@ TODO
 ### Delivery Information | 配送情報
 
 **SuitAI:**
-- Digital delivery via email
-- Processing time: 24-48 hours after payment confirmation
-- Delivery method: Download link sent to registered email address
+- Digital delivery via website (credits)
+- Processing time: Immediate
+- Delivery method: Credits added to the account
 
 **STRAPION:**
 - Digital download through Apple App Store and Google Play Store
@@ -87,7 +87,7 @@ TODO
 ### Customer Support | カスタマーサポート
 
 **Support Hours | サポート時間:**
-- Monday to Friday: 9:00 AM - 6:00 PM JST
+- Monday to Friday: 18:00 - 20:00 JST
 - Response time: Within 24-48 hours
 
 **Support Contact | サポート連絡先:**
@@ -115,7 +115,7 @@ TODO
 
 ---
 
-**Last Updated | 最終更新日:** TODO
+**Last Updated | 最終更新日:** Jul 3 2025
 
 **Contact for Commerce Disclosure Inquiries | 特定商取引法に関するお問い合わせ:**  
 Email: hello@otterworks.co
