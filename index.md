@@ -124,6 +124,6 @@ Business Address: 111-0036 - Tokyo-to, Taito-ku, Matsugaya 3-4-2 901, Japan
 
 ### Terms & Privacy
 
-For complete terms of service and privacy policies, visit: [suitai.co/en/legal](https://suitai.co/en/legal)
+Terms of Service: [Terms of Service](terms.html)
 
-STRAPION privacy policy: [Privacy Policy](privacyen.html)
+Privacy Policy: [Privacy Policy](privacyen.html)

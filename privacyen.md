@@ -95,6 +95,5 @@ Contact Us
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at hello@otterworks.co.
 
-**For SuitAI users:** A more detailed privacy policy specific to SuitAI services is available at [suitai.co/privacy](https://suitai.co/privacy).
 
 [back](./)
