@@ -21,6 +21,8 @@ Transform your everyday photo into a professional portrait with AI. Trusted by j
 
 Visit: [suitai.co](https://suitai.co)
 
+Blog: [medium.com/@theotterworks](https://medium.com/@theotterworks)
+
 ![Person 1](assets/img/person1.png) ![Person 2](assets/img/person2.png) ![Person 3](assets/img/person3.png)
 
 ### STRAPION - Mobile Gaming
