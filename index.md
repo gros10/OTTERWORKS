@@ -19,9 +19,9 @@ Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games and AI-p
 ### SuitAI - Professional AI Photography
 Transform your everyday photo into a professional portrait with AI. Trusted by job seekers, founders, and freelancers who want to make their first impression count.
 
-Visit: [suitai.co](https://suitai.co)
+Visit: [suitai.co](https://suitai.co){:target="_blank"}
 
-Blog: [medium.com/@theotterworks](https://medium.com/@theotterworks)
+Blog: [medium.com/@theotterworks](https://medium.com/@theotterworks){:target="_blank"}
 
 ![Person 1](assets/img/person1.png) ![Person 2](assets/img/person2.png) ![Person 3](assets/img/person3.png)
 
