@@ -21,6 +21,8 @@ Transform your everyday photo into a professional portrait with AI. Trusted by j
 
 Visit: [suitai.co](https://suitai.co)
 
+![Person 1](assets/img/person1.png) ![Person 2](assets/img/person2.png) ![Person 3](assets/img/person3.png)
+
 ### STRAPION - Mobile Gaming
 We just launched STRAPION, our very first game. Our in-house crafted puzzle game make us unique.
 
