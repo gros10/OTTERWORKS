@@ -128,6 +128,5 @@ Business Address: 111-0036 - Tokyo-to, Taito-ku, Matsugaya 3-4-2 901, Japan
 
 ### Terms & Privacy
 
-Terms of Service: [Terms of Service](terms.html)
 
 Privacy Policy: [Privacy Policy](privacyen.html)
