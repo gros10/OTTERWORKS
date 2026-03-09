@@ -28,10 +28,13 @@ Kassem DAOUSSI
 
 #### Products and Services | 商品・サービス:
 
-##### SuitAI - Professional AI Photography Service
-- Professional portrait generation service using AI technology
-- Upload photos and receive high-quality professional headshots
-- Suitable for LinkedIn, resumes, and business profiles
+##### SuitAI - Professional AI Photography Service *(Deprecated)*
+
+> **SuitAI has been deprecated. Thank you to all users for your support!**
+
+- ~~Professional portrait generation service using AI technology~~
+- ~~Upload photos and receive high-quality professional headshots~~
+- ~~Suitable for LinkedIn, resumes, and business profiles~~
 
 ##### STRAPION - Mobile Gaming
 - Strategic PvP board game for iOS and Android platforms

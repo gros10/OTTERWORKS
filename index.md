@@ -16,8 +16,11 @@ Born in 2022, OTTERWORKS aims at creating fun and engaging mobile games and AI-p
 
 ## Our Products & Services
 
-### SuitAI - Professional AI Photography
-Transform your everyday photo into a professional portrait with AI. Trusted by job seekers, founders, and freelancers who want to make their first impression count.
+### SuitAI - Professional AI Photography *(Deprecated)*
+
+> **SuitAI has been deprecated.** Thank you to all users for your support and trust — it meant the world to us!
+
+~~Transform your everyday photo into a professional portrait with AI. Trusted by job seekers, founders, and freelancers who want to make their first impression count.~~
 
 Visit: [suitai.co](https://suitai.co){:target="_blank"}
 
@@ -99,7 +102,7 @@ OTTERWORKS is software publisher based in Tokyo, Japan.
 
 ### Product & Service Descriptions
 
-**SuitAI**: Professional AI-powered portrait generation service. Upload your photos and receive high-quality professional headshots suitable for LinkedIn, resumes, and business profiles.
+**SuitAI** *(Deprecated)*: Professional AI-powered portrait generation service. Upload your photos and receive high-quality professional headshots suitable for LinkedIn, resumes, and business profiles. *SuitAI has been deprecated — thank you to all users!*
 
 **STRAPION**: A strategic PvP board game for iOS and Android platforms. Players engage in tactical gameplay using an advanced tic-tac-toe format with multiple grids and strategic rules.
 
